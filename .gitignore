@@ -1,0 +1,8 @@
+.sfdx/sfdx-config.json
+.sfdx/orgs/test-vkifgbhhmjzl@demo_company.net/maxrevision.json
+.sfdx/tools/apex.db
+.vscode/settings.json
+force-app/main/default/profiles/
+.sfdx/orgs/
+.sfdx/tools/
+.forceignore
